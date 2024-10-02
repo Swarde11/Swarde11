@@ -1,8 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Salem!</h1>
 <h3 align="center">A Palestinian Developer Residing in Lebanon!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarde11&label=Profile%20views&color=0e75b6&style=flat" alt="swarde11" /> </p>
-
 - 🔭 I’m currently working on [Proprietary Software Horrors](https://github.com/Swarde11/proprietary-horrors)
 
 - 👨‍💻 All of my projects are available at [swarde11.github.io](https://swarde11.github.io)
