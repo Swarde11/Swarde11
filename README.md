@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Proprietary Software Horrors](https://github.com/Swarde11/proprietary-horrors)
 
-- 👨‍💻 All of my projects are available at [swarde11.github.io](swarde11.github.io)
+- 👨‍💻 All of my projects are available at [swarde11.github.io](https://swarde11.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
