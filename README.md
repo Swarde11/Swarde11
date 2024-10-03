@@ -1,8 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Salem!</h1>
 <h3 align="center">A 14 y/o Palestinian Developer Residing in Lebanon!</h3>
 
-- 🔭 I’m currently working on [Proprietary Software Horrors](https://github.com/Swarde11/proprietary-horrors)
-
 - 👨‍💻 All of my projects are available at [swarde11.github.io](https://swarde11.github.io)
 
 <h3 align="left">Languages and Tools:</h3>
